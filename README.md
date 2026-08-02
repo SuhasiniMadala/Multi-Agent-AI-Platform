@@ -192,6 +192,3 @@ This project explores:
 
 Feel free to fork the repository, open issues, or contribute to the project.
 
-**Suhasini Madala**
-
-Feel free to fork the repository, open issues, or contribute to the project.
