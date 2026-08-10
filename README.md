@@ -121,8 +121,8 @@ docker/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/enterprise-ai-workspace.git
-cd enterprise-ai-workspace
+git clone https://github.com/SuhasiniMadala/Multi-Agent-AI-Platform
+cd Multi-Agent-AI-Platform
 ```
 
 ### Install Dependencies
